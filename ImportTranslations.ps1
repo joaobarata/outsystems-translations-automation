@@ -9,7 +9,7 @@ Script used to export the translation files of a solution.
 
 .PARAMETER InputPath
 [string] -SSPath - Path for 'Service Studio'. Defaults to "C:\Program Files\OutSystems\Service Studio 11\Service Studio\ServiceStudio.exe"
-[string] -Format - Format for the translations files. Defaults to xls")
+[string] -Format - Format for the translations files. Defaults to xls"
 
 
 .INPUTS
